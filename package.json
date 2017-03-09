@@ -1,0 +1,24 @@
+{
+  "name": "jwt-sample",
+  "version": "1.0.0",
+  "description": "JWT Node Express 4 sample",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.8.6",
+    "morgan": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JWT",
+    "node",
+    "express"
+  ],
+  "author": "Alexandre PENOMBRE",
+  "license": "ISC"
+}
